@@ -16,3 +16,15 @@ this is my no2 commit
 # Heading1
 ## Heading 2
 ### hahaha
+
+**Images**
+**remoteImages**
+![an image of a bula](http://placekitten.com/200/300.jpg)
+
+**local image**
+![bulabula](readmeImage/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
+```
+Coding block
+hhhh
+```
