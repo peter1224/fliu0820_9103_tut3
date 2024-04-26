@@ -10,5 +10,5 @@ this is my no2 commit
 
 *Italic text*
 
--item1 
-    -sub item 1
+- item1 
+    - sub item 1
